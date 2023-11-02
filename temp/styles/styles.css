@@ -156,7 +156,7 @@ button:focus{
 
 .header .navbar .navbar-nav > li > a, .header .navbar .navbar-brand, .header .navbar .navbar-nav > li > a:focus{
     background-color: transparent;
-    color: #fff;
+    color: #fbff00;
   }
 
 .navbar-header button{
